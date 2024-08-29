@@ -1,3 +1,6 @@
+<script type="module">
+
+</script>
 const accountId = 144533;
 let accountEmail = "abhi@gmail.com"
 var accountPassword = "12345"
